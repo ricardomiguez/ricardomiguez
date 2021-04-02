@@ -14,15 +14,15 @@ Self taugth front-end developer, developing projects using
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> ,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/> ,
 and
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>.
 
-- 🔭   Interested in React, BDD, Design Patterns and Testing
+- 🔭&nbsp;&nbsp;Interested in React, BDD, Design Patterns and Testing
 
-- 📫   How to reach me: rbarrosmiguez@gmail.com
+- 📫&nbsp;&nbsp;How to reach me: rbarrosmiguez@gmail.com
 
 <br>
 
-🎮 **Trivia**:
+🎮&nbsp;&nbsp;**Trivia**:
 
 What's the last thing that goes through a bug's head when he hits a car windshield?
 <details>
