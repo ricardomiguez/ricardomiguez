@@ -1,8 +1,8 @@
 ### Hey, I'm Ricardo! 👋
 
-🤓 Junior Software Engineer - Front-end at [FARFETCH](https://www.farfetch.com) <br>
+🤓 Software Engineer - Front-end at [ENDLESS DS](https://endlessds.com/) <br>
 🇧🇷 Born in Belém, Brazil <br>
-🇵🇹 Living in Porto, Portugal <br>
+🇱🇺 Living in Luxembourg, Luxembourg <br>
 
 ### What I'm focusing on 🔍
 
