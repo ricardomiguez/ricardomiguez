@@ -1,6 +1,6 @@
 ### Hey, I'm Ricardo! 👋
 
-🤓 Software Engineer - Front-end at [ENDLESS DS](https://endlessds.com/) <br>
+🤓 Software Engineer - Front-end at [Endless DS](https://endlessds.com/) <br>
 🇧🇷 Born in Belém, Brazil <br>
 🇱🇺 Living in Luxembourg, Luxembourg <br>
 
